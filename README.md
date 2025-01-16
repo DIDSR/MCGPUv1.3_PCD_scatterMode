@@ -11,6 +11,7 @@ Documentation for the individual functions and variables implemented in the code
 This version is very similar to the existing software [MCGPUv1.3_PCD](https://github.com/DIDSR/MCGPUv1.3_PCD). The only two differences are ...
 1.	Instead of outputting summed photon counts (from all interaction types) and the non-scattered photon counts in [MCGPUv1.3_PCD](https://github.com/DIDSR/MCGPUv1.3_PCD), MCGPUv1.3_PCD_scatterMode also outputs the photon counts of each scattering channel (Rayleigh, Compton, and multiple scattering). 
 2.	This version will also include tables related to the cross sections of the materials and interaction types via MIF and MCGPU files.
+
 All the physics/simulation code are the same between the two versions. 
 
 # MCGPU v1.3
