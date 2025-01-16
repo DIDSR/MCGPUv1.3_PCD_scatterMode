@@ -1,0 +1,79 @@
+2025/01/16 09:08:55 [1106315] building file list
+2025/01/16 09:08:55 [1106315] ERROR: destination must be a directory when copying more than 1 file
+2025/01/16 09:08:55 [1106315] rsync error: errors selecting input/output files, dirs (code 3) at main.c(623) [Receiver=3.1.2]
+2025/01/16 09:09:38 [1106712] receiving file list
+2025/01/16 09:09:38 [1106742] >f+++++++++ GNP1e11_MIF.mat
+2025/01/16 09:09:38 [1106742] >f+++++++++ GNP1e11_MIF.mcgpu
+2025/01/16 09:09:38 [1106742] sent 62 bytes  received 4.16M bytes  755.85K bytes/sec
+2025/01/16 09:09:38 [1106742] total size is 4.16M  speedup is 1.00
+2025/01/16 09:11:35 [1107562] receiving file list
+2025/01/16 09:11:35 [1107600] >f+++++++++ MIF_water.dat
+2025/01/16 09:11:35 [1107600] sent 43 bytes  received 1.24K bytes  197.08 bytes/sec
+2025/01/16 09:11:35 [1107600] total size is 1.12K  speedup is 0.88
+2025/01/16 09:12:48 [1108181] receiving file list
+2025/01/16 09:12:48 [1108228] >f+++++++++ MIF_gnp.dat
+2025/01/16 09:12:48 [1108228] sent 43 bytes  received 1.59K bytes  297.64 bytes/sec
+2025/01/16 09:12:48 [1108228] total size is 1.48K  speedup is 0.91
+2025/01/16 09:15:43 [1109467] receiving file list
+2025/01/16 09:15:43 [1109499] >f+++++++++ MIF_caffeine_narrow.dat
+2025/01/16 09:15:43 [1109499] sent 43 bytes  received 2.00K bytes  371.09 bytes/sec
+2025/01/16 09:15:43 [1109499] total size is 1.85K  speedup is 0.91
+2025/01/16 09:18:31 [1110756] receiving file list
+2025/01/16 09:18:31 [1110756] rsync: link_stat "/home/yeelamelim.thompson/Projects/saxs/MCGPU/v1.3/MCGPU/FortranMaterial/fsource/MIF_lucite.dat" failed: No such file or directory (2)
+2025/01/16 09:18:31 [1110756] sent 8 bytes  received 164 bytes  26.46 bytes/sec
+2025/01/16 09:18:31 [1110756] total size is 0  speedup is 0.00
+2025/01/16 09:18:31 [1110756] rsync error: some files/attrs were not transferred (see previous errors) (code 23) at main.c(1865) [Receiver=3.2.7]
+2025/01/16 09:18:31 [1110756] rsync: [Receiver] write error: Broken pipe (32)
+2025/01/16 09:18:44 [1110838] receiving file list
+2025/01/16 09:18:44 [1110838] rsync: link_stat "/home/yeelamelim.thompson/Projects/saxs/MCGPU/v1.3/MCGPU/FortranMaterial/fsource/MIF_lucite.dat" failed: No such file or directory (2)
+2025/01/16 09:18:44 [1110838] sent 8 bytes  received 164 bytes  26.46 bytes/sec
+2025/01/16 09:18:44 [1110838] total size is 0  speedup is 0.00
+2025/01/16 09:18:44 [1110838] rsync error: some files/attrs were not transferred (see previous errors) (code 23) at main.c(1865) [Receiver=3.2.7]
+2025/01/16 09:18:44 [1110838] rsync: [Receiver] write error: Broken pipe (32)
+2025/01/16 09:19:18 [1111097] receiving file list
+2025/01/16 09:19:18 [1111097] rsync: link_stat "/home/yeelamelim.thompson/Projects/saxs/MCGPU/v1.3/MCGPU/FortranMaterial/fsource/MIF_lucite.dat" failed: No such file or directory (2)
+2025/01/16 09:19:18 [1111097] sent 8 bytes  received 164 bytes  31.27 bytes/sec
+2025/01/16 09:19:18 [1111097] total size is 0  speedup is 0.00
+2025/01/16 09:19:18 [1111097] rsync error: some files/attrs were not transferred (see previous errors) (code 23) at main.c(1865) [Receiver=3.2.7]
+2025/01/16 09:19:18 [1111097] rsync: [Receiver] write error: Broken pipe (32)
+2025/01/16 09:19:39 [1111243] receiving file list
+2025/01/16 09:19:39 [1111269] >f+++++++++ MIF_lucite.dat
+2025/01/16 09:19:39 [1111269] sent 43 bytes  received 1.52K bytes  283.64 bytes/sec
+2025/01/16 09:19:39 [1111269] total size is 1.38K  speedup is 0.88
+2025/01/16 09:25:34 [1113751] receiving file list
+2025/01/16 09:25:34 [1113800] >f+++++++++ bone_MIF_King2011.dat
+2025/01/16 09:25:34 [1113800] >f+++++++++ bone_MIF_Tartari2002.dat
+2025/01/16 09:25:34 [1113800] sent 62 bytes  received 5.29K bytes  822.77 bytes/sec
+2025/01/16 09:25:34 [1113800] total size is 5.06K  speedup is 0.95
+2025/01/16 09:34:22 [1117631] receiving file list
+2025/01/16 09:34:22 [1117631] rsync: change_dir "/home/yeelamelim.thompson/Projects/saxs/MCGPU/v1.3/MCGPU/FortranMaterial/fsource/fsource/outputs" failed: No such file or directory (2)
+2025/01/16 09:34:22 [1117631] sent 8 bytes  received 168 bytes  32.00 bytes/sec
+2025/01/16 09:34:22 [1117631] total size is 0  speedup is 0.00
+2025/01/16 09:34:22 [1117631] rsync error: some files/attrs were not transferred (see previous errors) (code 23) at main.c(1865) [Receiver=3.2.7]
+2025/01/16 09:34:22 [1117631] rsync: [Receiver] write error: Broken pipe (32)
+2025/01/16 09:34:36 [1117717] receiving file list
+2025/01/16 09:34:36 [1117745] >f+++++++++ boneMIF_elim_5_125keV_chemicalFormula_King2011.mcgpu
+2025/01/16 09:34:36 [1117745] sent 43 bytes  received 905.49K bytes  139.31K bytes/sec
+2025/01/16 09:34:36 [1117745] total size is 905.10K  speedup is 1.00
+2025/01/16 09:34:55 [1117843] receiving file list
+2025/01/16 09:34:55 [1117843] rsync: link_stat "/home/yeelamelim.thompson/Projects/saxs/MCGPU/v1.3/MCGPU/FortranMaterial/fsource/outputs/boneMIF_elim_5_125keV_chemicalFormula_Tartari2002.mcgpu" failed: No such file or directory (2)
+2025/01/16 09:34:55 [1117843] sent 8 bytes  received 213 bytes  40.18 bytes/sec
+2025/01/16 09:34:55 [1117843] total size is 0  speedup is 0.00
+2025/01/16 09:34:55 [1117843] rsync error: some files/attrs were not transferred (see previous errors) (code 23) at main.c(1865) [Receiver=3.2.7]
+2025/01/16 09:34:55 [1117843] rsync: [Receiver] write error: Broken pipe (32)
+2025/01/16 09:37:50 [1119108] receiving file list
+2025/01/16 09:37:50 [1119136] >f+++++++++ boneMIF_elim_5_125keV_penelopeID119_Tartari2002.mcgpu
+2025/01/16 09:37:50 [1119136] sent 43 bytes  received 905.80K bytes  139.36K bytes/sec
+2025/01/16 09:37:50 [1119136] total size is 905.41K  speedup is 1.00
+2025/01/16 09:38:11 [1119271] receiving file list
+2025/01/16 09:38:11 [1119301] >f.st...... boneMIF_elim_5_125keV_penelopeID119_King2011.mcgpu
+2025/01/16 09:38:11 [1119301] sent 5.80K bytes  received 905.80K bytes  165.75K bytes/sec
+2025/01/16 09:38:11 [1119301] total size is 905.41K  speedup is 0.99
+2025/01/16 09:43:24 [1121559] receiving file list
+2025/01/16 09:43:24 [1121587] >f+++++++++ MIFgray.dat
+2025/01/16 09:43:24 [1121587] sent 43 bytes  received 1.58K bytes  295.82 bytes/sec
+2025/01/16 09:43:24 [1121587] total size is 1.47K  speedup is 0.91
+2025/01/16 09:44:05 [1121858] receiving file list
+2025/01/16 09:44:05 [1121890] >f+++++++++ MIFwhite.dat
+2025/01/16 09:44:05 [1121890] sent 43 bytes  received 1.58K bytes  296.00 bytes/sec
+2025/01/16 09:44:05 [1121890] total size is 1.47K  speedup is 0.90
